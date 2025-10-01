@@ -13,12 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal		" />
-  </a>
-</p>
-  
+
   Twitter: [@Leidy_97249](https://twitter.com/Leidy_97249)
 <!---
 LDaniQ24/LDaniQ24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
