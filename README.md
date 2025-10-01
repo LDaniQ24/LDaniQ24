@@ -9,9 +9,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,docker,cpp,cs,js,mysql,html,css	" />
+    <img src="https://skillicons.dev/icons?i=git,python,docker,cpp,cs,js,mysql,html,css" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  </a>
+</p>
+  
 
 
   Twitter: [@Leidy_97249](https://twitter.com/Leidy_97249)
