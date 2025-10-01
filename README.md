@@ -7,9 +7,11 @@
   <img src="https://i.pinimg.com/originals/2a/4b/64/2a4b64142ad808bfe4bf8d028cb3abce.gif" />
   </div>
 
-  <div>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
   
   Twitter: [@Leidy_97249](https://twitter.com/Leidy_97249)
 <!---
