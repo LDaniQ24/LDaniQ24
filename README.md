@@ -46,8 +46,8 @@
 </p>
 
 
-  <div>
-  <img src="https://ih1.redbubble.net/image.5113934117.7858/raf,360x360,075,t,fafafa:ca443f4786.jpg" />
+<div >
+  <img src="https://ih1.redbubble.net/image.5113934117.7858/raf,360x360,075,t,fafafa:ca443f4786.jpg"  width="150"/>
 </div>
 
 
